@@ -15,5 +15,5 @@ wandb login ---> insert API
 
 For training, run the file script
 ```slurm server
-sbatch scripts/vn/base/vietmed-v1.sh
+sbatch scripts/german/base/germanmed-v1.sh
 ```
