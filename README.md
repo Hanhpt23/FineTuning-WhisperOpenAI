@@ -2,6 +2,7 @@
 
 
 conda create -n MultiMed python=3.9
+
 conda activate MultiMed
 
 # Install dependent libraries
