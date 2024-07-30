@@ -1,8 +1,8 @@
 # WhisperOpenAI-Finetuning
 
 
-conda create -n B python=3.9
-conda activate B
+conda create -n MultiMed python=3.9
+conda activate MultiMed
 
 # Install dependent libraries
 pip install -r requirement.txt
