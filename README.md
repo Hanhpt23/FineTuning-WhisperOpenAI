@@ -1,8 +1,8 @@
 # WhisperOpenAI-Finetuning
 
 
-conda create -n Bi python=3.9
-conda activate Bi
+conda create -n B python=3.9
+conda activate B
 
 # Install dependent libraries
 pip install -r requirement.txt
